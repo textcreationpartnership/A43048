@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The passing bell by James Harwood.</title>
+            <author>Harwood, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43048</idno>
+            <idno type="STC">Wing H1100</idno>
+            <idno type="STC">ESTC R28063</idno>
+            <idno type="EEBO-CITATION">10343629</idno>
+            <idno type="OCLC">ocm 10343629</idno>
+            <idno type="VID">44921</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44921)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1385:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The passing bell by James Harwood.</title>
+                  <author>Harwood, James.</author>
+               </titleStmt>
+               <extent>[8], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Meditations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44921:1"/>
+            <pb facs="tcp:44921:1" rendition="simple:additions"/>
+            <p>THE PASSING BELL.</p>
+            <q>
+               <bibl>Job the 14<hi rend="sup">th</hi> verſe the firſt.</bibl>
+               <p>Man that is borne of a woman, is of few dayes and full of trouble.</p>
+            </q>
+            <p>By James Harwood. B. D.</p>
+            <p>Printed in the yeare. 1655.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:44921:2"/>
+            <pb facs="tcp:44921:2"/>
+            <head>TO THE RIGHT HONORABLE THE LADY CAPELL DOWAGER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Honour I ever bare to that bright ſhining Star of Loyalty, your late deceaſed Lord, obliges me to Dedi<g ref="char:EOLhyphen"/>cate theſe few lines to your ſingular goodneſſe; they will occaſion ſerious thoughts in ſad times; and point you out the way to life by Death: I know a great part of your joy on earth is gone to Heaven: And ſince Death made a
+<pb facs="tcp:44921:3"/>way for your Noble Lord, I truſt in the Lord this ſhall ſweeten to you the thought of the approach of Death. I have made bold to ſet a ſad object before your eyes, you may mixe it with your worldly injoy<g ref="char:EOLhyphen"/>ments, as the Iſrael tes did their bitter hearbs, with their pleaſant paſſover; It may ſeeme at first to kill, but cures, onely removing our Landmarke from a: Coppy-hold at will, to a fee-farme of Eternity: Theſe after Noyſe may ſeeme as harſh as <hi>Jacobs</hi> hands were Rough; but I hope not ſo to you, who in life have learnt to dye; A ſhort leſſon, yet to ſome, too long a learning; God hath bleſſed your Honour with long dayes, yet ſome by them have been overcaſt with a black cloud of worldly ca<g ref="char:EOLhyphen"/>lamity, which many mouthes put all your family and deare friends into mourning weedes: What was this, but the meſſen ger of death ſent to one, to warne you and all yours, and all others to make ready to die. Madam, pardon my preſumption, I only put you in mind of<note n="*" place="margin">Death</note> him, of whom you have too timely an aſſurance he will ſpare none; what I here preſent to you, is not to terrifie you with Death, but put you in minde what you may gaine by dying: And
+<pb facs="tcp:44921:3"/>know Right Honorable, that as none was admitted into the Temple of Honour, but ſuch who fiſt went through the Temple of Uertue, ſo none can come to the life of glo<g ref="char:EOLhyphen"/>ry, till they have made their paſſage by the death of the body; your high hopes in reverſion will ſweeten the thoughts of that meſſenger of mans mortality, which the more you thinke of, the better you will bee prepared for your long journey; And this I take to be the thiefe cauſe, why the Em<g ref="char:EOLhyphen"/>perours of Conſt antinople in their Augu<g ref="char:EOLhyphen"/>rations on their Coronation dayes, had a Maſon, who came and ſhewed them ſeve<g ref="char:EOLhyphen"/>rall ſtones, and willed them to chuſe which of thoſe ſtones ſhould be made fit for their Grave-ſtones.</p>
+            <p>You ſee at the Eſpouſalls of Emperiall Crownes, it was thought fit to Caroll out this dolefull ditty, <hi>Memento mori,</hi> O Man remember thy end. It ſhall not be my laſt, but everlaſting ſuit, in this, you would mitate the Princes of the Nations, and whilſt by Divine Goodneſſe, you are In<g ref="char:EOLhyphen"/>heritrix of large poſſeſſions, at the ſame time to bebare in mind how here we have no continuing Citty: God for his goodneſſe,
+<pb facs="tcp:44921:4"/>and Chriſt for his merits bleſſe you and all yours, which ſhall be, <hi>Dum ſpiro,</hi> the prayer of</p>
+            <closer>
+               <signed>Your devoted ſervant to command, JAMES HARWOOD</signed>
+            </closer>
+         </div>
+         <div type="author_to_wife">
+            <pb facs="tcp:44921:4"/>
+            <head>TO HIS BELOVED WIFE, In his long abſence from her.</head>
+            <opener>
+               <salute>Deare Heart.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ere wee have no continuing City, our dayes, paſſe as a take that is told; <hi>In the prime of our Age,</hi> The world ſmiled upon us, in our middle <hi>Age,</hi> ſhe ſeemed to hold out unto us her golden Ball; but in this <hi>our old age and worſt of times,</hi> all worldly Joy hath turned her back upon us: So that after a ſad and ſerious Meditation,<note place="margin">Hiſt.</note> I found all <hi>Earthly pleaſure</hi> like <hi>Plinies</hi> flies, borne at Morne, in their prime at Noone, and dead at Night. They came to us like <hi>Oxen</hi> ſlowly, they have taken <hi>Pegaſus</hi> his wings and flowne from us: The uncertainty of theſe unſtable con<g ref="char:EOLhyphen"/>tents hath made me caſt an eye up to hea<g ref="char:EOLhyphen"/>ven, and ſeeke after an eternity of Bliſſe; My beſt beloved know it, there is no way
+<pb facs="tcp:44921:5"/>to a life a Glory, but by the <hi>death</hi> of the body; I therefore beg of you, every day to think of your end, that by the thought of death, you may be prep<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red for a life of Glory in the kingdome of Heaven; In my long abſence from you, I thought good to commend theſe few ſentences to your every daies peruſall; They will put you in mind of your long Home, and beſpeake you in private to worke out your ſalvation with feare and trembling. And now conſidering much of our time is ſpent, ſo ſmall a reverſe remains; The Lord grant we may both of us re<g ref="char:EOLhyphen"/>member our ends, that we may never doe amiſſe. This is his prayer, who will live and die.</p>
+            <closer>
+               <signed>Your Loving and faithfull Husband <hi>James Harwood.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:44921:5"/>
+            <head>The paſſing Bell.</head>
+            <epigraph>
+               <q>
+                  <bibl>Job the 14<hi rend="sup">th</hi> verſe the firſt.</bibl>
+                  <p>Man that is borne of a Woman is of few dayes and full of evill.</p>
+               </q>
+            </epigraph>
+            <p>My Soule is embarked in a craſie Sculler, Here is the paſſenger, and here is the veſſell.</p>
+            <p>My Soule is ſayling on from a Tranſi<g ref="char:EOLhyphen"/>tory life of vanity to an eternall lif of Glory.</p>
+            <p>In all my Spirituall Sea-ſicke paſſage, behold and heare a Change of Notes.</p>
+            <p>No more, Soule take thy eaſe; No more <hi>Faciamus tria Tabernacula.</hi> No more <hi>quid dabitis &amp; ego tradam vobis.</hi>
+            </p>
+            <p>No, all the noyſe is, vanity upon vanity, all is vanity.</p>
+            <p>The Pilot ſickneſſe Calls on me to em<g ref="char:EOLhyphen"/>barke, and now <hi>Naboths Uineyard, Bel<g ref="char:EOLhyphen"/>ſhazars bouls, Jona's Gourd,</hi> theſe give no content.</p>
+            <p>Yet this my p reſent viſitation I bid wel<g ref="char:EOLhyphen"/>come; knowing it is the back-doore, whic
+<pb facs="tcp:44921:6"/>letts me <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> into the Kingdome of Heaven And therefore goe toll the bell, that all good people may take notice how nigh I am to my e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.</p>
+            <p>Let them goe toll the bell, whilſt I tune my tongue to the paſſing bell.</p>
+            <p>My Ditty is Mortality, my Tune La<g ref="char:EOLhyphen"/>crymae, my time ſhort Semiquaver time, which will admit of no reſt.</p>
+            <p>Give me leave to enchant your eares with a Language will put every one of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in minde of our ends.</p>
+            <p>I have, and for this cauſe bethought me of ſome ſelect ſayings worthy of your Remembrance.</p>
+            <p>Every ſentence ſhall give you notice of your end, and how here you have no conti<g ref="char:EOLhyphen"/>nuing Citty.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:44921:6"/>
+            <div n="1" type="part">
+               <head>THE FIRST PART OF THE SOULS DEPARTING DITTY.</head>
+               <epigraph>
+                  <q xml:lang="lat">Quod faciendum eſt ſemel, Deliberan<g ref="char:EOLhyphen"/>dum eſt diu.</q>
+               </epigraph>
+               <p n="1">1.<seg rend="decorInit">I</seg> Have a <note n="⋆" place="margin">To paſſe from life to Death.</note> work to do, I am but once to do it, and I am undone if it be not well done.</p>
+               <p n="2">2. Let me take more pains to die well then to live long, otherwiſe my long life will bring me to an ill end.</p>
+               <p n="3">3. To return from the dead impoſſi<g ref="char:EOLhyphen"/>bles; All my life then I will prepare for death.</p>
+               <p n="4">4. When death will come, I know
+<pb n="2" facs="tcp:44921:7"/>not; that it will come, I am ſure of it, but once, <hi>O make ready.</hi>
+               </p>
+               <p n="5">5. This life is a ſummers day before death; Death followes after, <hi>Set thy houſe in order.</hi>
+               </p>
+               <p n="6">6. Hath God given me lenghth of daies; It is, that in life, I may prepare for death.</p>
+               <p n="7">7. He that dieth daily, hath done his work before the night of death ſhuts day in.</p>
+               <p n="8">8. I have but once to go hence and be ſeen no more, that I play not loath to de<g ref="char:EOLhyphen"/>part, my laſt parture, I will bear in my re<g ref="char:EOLhyphen"/>membrance, and for ever.</p>
+               <p n="9">9. Before the day of battel what a world of preparation, the war beginns when death comes; its wiſdom before it come, to make ready.</p>
+               <p n="10">10. They call death <hi>Charons</hi> boat, I am ſure it waſts the ſoul from a materiall to an immateriall world, my advice, eye the barge before thou enter, all one, with <hi>remember thy end.</hi>
+               </p>
+               <p n="11">11. I have but one ſtep to eternity; it is from life to death, I will be prepa<g ref="char:EOLhyphen"/>ring this body of mine, to win the Gar<g ref="char:EOLhyphen"/>land of a bleſſed immortality.</p>
+               <p n="12">12. O the ſerious thoughts while I
+<pb n="3" facs="tcp:44921:7"/>live; How I muſt die, theſe do ſo make me run, that I may obtain, a Crown of Immortall glory.</p>
+               <p n="13">13. In my life I will oft meditate on death, when death doth come, it will be more welcome.</p>
+               <p n="14">14. He that thinks not of his end till ready to die, his unthought of ending is like an <hi>Enthuſiaſts ſermon,</hi> poor ſtuff.</p>
+               <p n="15">15. This ſound of the paſſing Bell aſ<g ref="char:EOLhyphen"/>ſures me there is ſome to dya likly to die; Is it ſo nigh night, it is high time then to work out my ſalvation; left the night of death put in, and none can work.</p>
+               <p n="16">16. I have a taske ſet will take up all my time, <hi>viz.</hi> to die well; while I live then I will learn to die; leſt being found unprepared, it be ſaid, <hi>thou fool, this night thy Soul ſhall be required of thee.</hi>
+               </p>
+               <p n="17">17. There is one, and it will not be long ere he come and call, and knock at thy door, his name is death, with <hi>Mar<g ref="char:EOLhyphen"/>tha</hi> thou haſt been troubled about ma<g ref="char:EOLhyphen"/>ny things; O this <hi>unum</hi>
+                  <note n="⋆" place="margin">That I muſt die.</note>
+                  <hi>neceſſarium,</hi> let it not be forgotten.</p>
+               <p n="18">18. As thou cameſt by the womb; thou muſt go by the grave. Learn then in life, how to be freed from death.</p>
+               <p n="19">19. <hi>Maximilian</hi> the Emperor made his Coffin alwaies to be carried along with
+<pb n="4" facs="tcp:44921:8"/>him, to this end that his dignity might not make him forget his mortality.</p>
+               <p n="20">20. How many meſſengers have brought word that death will quarter here; ſad newes, wouldſt thou ſweeten them far God and keep his command<g ref="char:EOLhyphen"/>ments.</p>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part of the ſoules departing Ditty.</head>
+               <epigraph>
+                  <q xml:lang="lat">Statutum eſt omnibus ſemel mori.</q>
+               </epigraph>
+               <p n="21">21. WHat was long ſince decreed in heaven, God hath ſent war<g ref="char:EOLhyphen"/>rants to e<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cute on earth, <hi>ſemel mori, for us once to die.</hi>
+               </p>
+               <p n="22">22. King <hi>Xerxes</hi> ſtanding on a Moun<g ref="char:EOLhyphen"/>tain, and having many hundred thou<g ref="char:EOLhyphen"/>ſands of his ſouldiers ſtanding in the plain, fell a weeping, to think upon it, how in a few years, and all thoſe gallant valiant ment <hi>muſt die.</hi>
+               </p>
+               <p n="23">23. <hi>Adam,</hi> he lived 930 years, and he dyed.</p>
+               <p>
+                  <hi>Enoch,</hi> he lived 965 years, and he dyed.</p>
+               <p>
+                  <hi>Metbuſalem</hi> lived 967 years, and he dyed.</p>
+               <pb n="5" facs="tcp:44921:8"/>
+               <p> 
+                  <hi>O the longeſt day hath its night, and in the end man muſt die.</hi>
+               </p>
+               <p n="24">24. The Princes of the Nations paſſe ſentence of death upon others Well, it is not long, but their turn will come, <hi>ſemel mori, once to die.</hi>
+               </p>
+               <p n="25">25. When the keepers of the houſe trenible, the grinders ceaſe, the lookers out of the windowes be darkned, then man is taking his journey to his long home, <hi>to die.</hi>
+               </p>
+               <p n="26">26. As is the Law of the Medes and Perſians Irrevocable, ſo is that uni<g ref="char:EOLhyphen"/>verſal ſentence, <hi>i ſemel mori, for all men once to die.</hi>
+               </p>
+               <p n="27">27. It is reported, how there is a white and black Mouſe, which continually gnawes at the root of a Tree, untill the Tree fall down: Man's the Tree, the day and night the white and black Mouſe, in a ſmall time, theſe hew man down, and <hi>he dies.</hi>
+               </p>
+               <p n="28">28. <hi>Baruch,</hi> and <hi>Gideon,</hi> and <hi>Sampiſon,</hi> they are all gone, and we are to follow after, <hi>and to die.</hi>
+               </p>
+               <p n="29">29. Better is the houſe of Mourning, than Mirth, this teacheth me to live in pleaſure, and die in pain, that learns me in this life to die to ſin; that now I muſt die, I may live with God.</p>
+               <p n="30">
+                  <pb n="6" facs="tcp:44921:9"/> 30. But where are theſe Heralds, who blaze that coat of death! The yeares Autumne, the Seas Ebbing, the Suns Setting: theſe aſſure me, how man ne<g ref="char:EOLhyphen"/>ver continues in one ſtay. <hi>Man in ho<g ref="char:EOLhyphen"/>nour laſts not long.</hi>
+               </p>
+               <p n="31">31. It is not long, and the Sun ſets, the Tyde turnes, and the Leaf falls, and man muſt as aſſuredly expect a change.</p>
+               <p n="32">32. <hi>Dira at vera,</hi> Terrible but true newes, it is this, not long, and the gathe<g ref="char:EOLhyphen"/>ring Hoaſt of <hi>Dan</hi> muſt ſweep us clean away.</p>
+               <p n="33">33. Many of us live where our Parents lived, &amp; live of the ſame lands which they lived of: It is not long, and our chil<g ref="char:EOLhyphen"/>dren ſhall do as much for us, <hi>For we muſt go hence and be ſeen no more.</hi>
+               </p>
+               <p n="34">34. Some ride Poſt, ſome Hackney, pace at <hi>ſerius citius,</hi> ſooner latter all arrive at the common Inne, the Grave, <hi>and die.</hi>
+               </p>
+               <p n="35">35. Some have the Palſie, ſome the Apoplexie, ſome a Feaver, ſome an A<g ref="char:EOLhyphen"/>gue, ſome a Conſumption, ſome none of them: yet the ſick, the ſound, they all meet in the end, at the ſame Rendevouz, at the houſe of Death, <hi>and they die.</hi>
+               </p>
+               <p n="36">36. The Scholer thinks to delude
+<pb n="7" facs="tcp:44921:9"/>death with his fallacies, the Lawyer puts in his demur, the Prince, his plea is, State-affairs: <hi>at equo pulſat pede,</hi> Death knocks at all dores alike; and when he comes, <hi>they all go hence, from their houſes to their graves.</hi>
+               </p>
+               <p n="37">37. None leads more a Chriſtian life, then he, who all his life, thinks of death. <hi>O all my daies I will wait till my change come.</hi>
+               </p>
+               <p n="38">38. <hi>Joſeph</hi> the Jew, in his beſt health made in ſtone-Coffin be cut out in his Garden, to put him in mind to his <hi>Ego abeo, I go hence.</hi>
+               </p>
+               <p n="39">39. The Perſians they buried their dead in their houſes, to put the whole houſhold in mind of the ſame lot, <hi>Semel mori, once to die.</hi>
+               </p>
+               <p n="40">40. <hi>Simonides,</hi> when commanded to give the moſt wholeſome rule to live well, willed the Lacedemonian Prince ever to bear in mind, <hi>ſe tempore brevi moriturum: ere long, and he muſt die.</hi>
+               </p>
+               <p n="41">41. A ſort of imprudent people put a <hi>fortaſſe</hi> upon all things in the world; they might have excepted death, it comes not<note n="⋆" place="margin">Not by chance but by force.</note>
+                  <hi>forte, ſed fort ter;</hi> and none can re<g ref="char:EOLhyphen"/>ſcue from the Jawes of death.</p>
+               <p n="42">42. God hath hid from me the day of
+<pb n="8" facs="tcp:44921:10"/>my death, that every day I may make ready <hi>to die.</hi>
+               </p>
+               <p n="43">43. There is nought more ſure then to die: ſo then live, as if to day <hi>to dy.</hi>
+               </p>
+               <p n="44">44. As all the Rivers come from the Sea, and run in again into the Sea, ſo we all come from the earth, and to the earth we muſt return again.</p>
+               <p n="45">45. The Mower cuts all down, as much will death do for all us, <hi>leave none ſtanding.</hi>
+               </p>
+               <p n="46">46. The Adder layeth one eare to the ground, the other, the Adder covereth with her Tail, and all that Charm the Charmer never ſo wiſely, ſhe may not hear: As deaf is death, it ſtops its ear, and will not hear, <hi>h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c magnos paervoſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> terit,</hi> the ſtorm of death roots up Shrubs and Cedars</p>
+               <p n="47">47. They ſay a Wolfe, if he ſeeth a man, firſt ſecludes the man from the uſe of his tongue; how true is that, I know not, this is true. I am ſure of it, death leaves us ſpeechleſſe, lifeleſſe: Whilſt therefore thou haſt life, prepare for death.</p>
+               <p n="48">48. I have heard of <hi>Abraham</hi> at Con<g ref="char:EOLhyphen"/>feſſion, confeſſing himſelfe to be duſt and aſhes; and <hi>David,</hi> how his
+<pb n="9" facs="tcp:44921:10"/>dayes are but a hand bredth: The ſhort<g ref="char:EOLhyphen"/>neſſe of this, the Britleneſs of that, tels me in my eare, <hi>I have no long time to ſtay here.</hi>
+               </p>
+               <p n="49">49. <hi>Solon,</hi> to pull downe mans proud heart, made this inſcription on the Poſt of the gates of <hi>Delphos, Noſce te'pſum, quaſi tunc cogitabls;</hi> know thy ſelfe, and then thou wilt quickly know thou muſt dye.</p>
+               <p n="50">50. I have read of a ſort of people that uſe dead mens bones for money, and the more they have, they are counted the more Rich: herein conſiſts my richeſt treaſure, to beare that about me will make me all my life remember my end.</p>
+               <p n="51">51. Great Sultan Saladan, Lord of ma<g ref="char:EOLhyphen"/>ny Nations and Languages, commanded upon his death-bed, that one ſhould car<g ref="char:EOLhyphen"/>ry upon a Speares point through all his Campe the flag of death, and to pro<g ref="char:EOLhyphen"/>claime, for all his wealth, <hi>Saladan</hi> hath nought left but this winding-ſheete, <hi>an enſured enſigne of Deaths triumphing over all the ſonnes of Adam.</hi>
+               </p>
+               <p n="52">52. I uncloath my ſelfe every night, I put off all but what may put me in mind of my winding-ſheet, and thus day after day uttereth ſpeech, and night after night
+<pb n="10" facs="tcp:44921:11"/>ſheweth knowledge, <hi>how Ego Exeo, I goe hence.</hi>
+               </p>
+               <p n="53">53. <hi>Anaxagoras</hi> having word brought him, his onely ſonne was dead: his an<g ref="char:EOLhyphen"/>ſwer was, <hi>ſcio me genuiſſe mortalem.</hi> I know he was borne to dye.</p>
+               <p n="54">54. The Epicure in his life takes his fill of pleaſures, yet feares one day death will deprive him of all his pleaſure, let us unlearne his firſt leſſon, let us take out his latter leſſon, and remember that death one day will deprive us of all our earthly joyes.</p>
+               <p n="55">55. The Meditations of Death are the politicks of Saints, and therefore ſaith the wiſeman, <hi>Remember thy end and thou ſhalt never doe amiſſe.</hi>
+               </p>
+               <p n="56">56. <hi>Philip</hi> of <hi>Macedon</hi> gave a boy a penſion every morning to ſay to him, <hi>Philippe memento te hominem eſſe, Phi<g ref="char:EOLhyphen"/>lip remember thou art a man, and there<g ref="char:EOLhyphen"/>fore muſt die.</hi>
+               </p>
+               <p n="57">57. Since man is ſubject to dye ſo ſoone as he begins to live, it ſhall make mee now that I know I live, to beare in mind, <hi>I muſt die.</hi>
+               </p>
+               <p n="58">58. The body at beſt is but a living Coffin to the Soule, when the Soule de<g ref="char:EOLhyphen"/>parts from the body, the grave ſhall be
+<pb n="11" facs="tcp:44921:11"/>the dead Coffin, to that late living Body.</p>
+               <p n="59">59. We reade of <hi>Philoſtrates,</hi> how hee lived ſeven years in his Tombe, that he might be ac<g ref="char:EOLhyphen"/>quainted with it againſt the time he came to bee put into it: Oh an Apprenticeſhip of yeares is time little enough to make us perfect in the <hi>my<g ref="char:EOLhyphen"/>ſtery of mortality.</hi>
+               </p>
+               <p n="60">60. <hi>Cauſinus</hi> in his Hieroglyphicks makes mention of an Indian Fountain out of which Gold is drawn in Earthen pitchers, yet none can get the Gold but hee that breakes the earthen pitcher. <hi>Eſt vita fictile:</hi> the life of man is the earthen pitcher. The Gold contained, the earneſt of all Heavenly happi<g ref="char:EOLhyphen"/>neſſe, which none can in full attaine till this corruptible put on incorruptibility, and this mor<g ref="char:EOLhyphen"/>tall Immortality: after the night of death comes that day of joy: Let mee welcome that cloudy e<g ref="char:EOLhyphen"/>vening promiſes ſo faire a ſunſhine, let us make fit to die that we may be counted worthy to live: hee that liveth well, cannot die ill: he that dieth well, his death is a paſſe from a miſerable life on earth, to live a life of glory in the Kingdome Heaven. Which God for his mercies ſend all of us.</p>
+            </div>
+            <div type="meditations">
+               <pb n="14" facs="tcp:44921:12"/>
+               <head>Divine Meditations, ariſing from the con<g ref="char:EOLhyphen"/>templation of theſe ſad and ſerious ſentences.</head>
+               <p>
+                  <label>1. Med.</label> Is it not high time to make fit to die; conſidering the Paſſing-Bell doth Tole: Well, I will go take my Dough upon my ſhoulders, and march from this carnall <hi>Egypt,</hi> to that ſpirituall <hi>Canaan.</hi> Let the fooliſh Virgins ſlip their time to lay in Oyle; yet, leſt the gates of heaven be barr'd up, I will up, and on, and buy without mony, or mony-worth. My want is great, my time is almoſt run: If I make not Market to day, I am not ſure to doe it to mor<g ref="char:EOLhyphen"/>row. O the uncertainty of life ſhall be the A<g ref="char:EOLhyphen"/>larum-Bell to give me NOW notice, to work out my ſalvation with fear and trembling.</p>
+               <p>
+                  <label>2 Med.</label> I am now ſole <hi>Ceſar,</hi> I have, and what not? at my diſpoſall, <hi>Jobs</hi> Goods, <hi>Naboths</hi> Vine<g ref="char:EOLhyphen"/>yard, <hi>Iohn Baptiſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> head in a Charger: I am of potent power, who dare controll me. O conſider, ere long, it's not long, and whereas mightie territo<g ref="char:EOLhyphen"/>ries could not ſtint thy ambition, Death will come and make a ſeiſure of thy SELFE, and bereave thee of all thou haſt, <hi>all but an evill CONSCIENCE.</hi> Think upon it, Death hath hitherto hewed all down, and art thou able to withſtand Him. Go and give him a peaceable meeting, who, with all thy force, there is no reſiſting. The Firmament wil endure but one Sun, but the THOUGHTS of God and the Grave may take up their lodging in the ſame Inne. O, I am never ſo nigh my God, as when I think of
+<pb n="13" facs="tcp:44921:12"/>my end. FRIEND, let death be in thy thoughts, and God will be in thy heart.</p>
+               <p>
+                  <label>3 Med.</label> Conſider well what's ſaid, <hi>Cor ſapientum eſt in Domo luctus, the Heart of the wiſe is in the houſe of Mourning.</hi> Death brought Tears to the houſe and Teares aſſure us that Wiſdome is got within dores. There is no fear of God, where no wiſdom, no wiſdom, where no ſerious thoughts of our end. I wil think of my end, that I may be num<g ref="char:EOLhyphen"/>bered among the wiſe: wiſe to God-ward, while I have an awfull fear of his death-blow. Come, let me embrace that thought of DEATH, which fits me for the day of life, even a life everlaſting.</p>
+               <p>
+                  <label>4 Med.</label> Meditate what new men we ought to be, who are here to day, gone to morrow, whom, it's not long, and death will arreſt, and then we muſt anſwer for all done in the fleſh, what a ſudden triall will it be, if we get not pardon before the cauſe be call'd on? What a fearfull reckoning, if before the day of Death, the Lord of life ſtrike not off all our reckoning. Lord I am deep in debt to thee, I owe thee more, than my goods, lands, and life can re<g ref="char:EOLhyphen"/>deem: my debt ſurmounts, my time to diſcharge its nigh at hand. O let the certain and ſwift ſum<g ref="char:EOLhyphen"/>mons by death, cauſe me forthwith to think upon a way to compound with my grand Creditor: I diſ<g ref="char:EOLhyphen"/>claim MERIT, I hold faſt by MERCY. For thy antient mercie's ſake, for our bleſſed MESSIA's ſake, in the houre of death, and in the day of judgment, accept the blood of thy Son, and ſave my Soul.</p>
+               <pb n="14" facs="tcp:44921:13" rendition="simple:additions"/>
+               <p>
+                  <label>5 Med.</label> Meditate, ſince man muſt die, Lord, what danger in dying unprepared; this is <hi>Maxima miſeria, a miſerie of miſeries:</hi> &amp; St. <hi>Auguſtine</hi> gives the reaſon, <hi>quoniam qualis in iſto die moritur, talis in illo die judi cabitur: For that look how a man goeth to that Priſon the Grave, ſo he goeth to the Judgment-Hall to be tryed,</hi> and now conſider of it well, if thou be not able to give a Goſpell-anſwer to the Judge of Heaven and Earth; comeſt to anſwer; but knoweſt not what to ſay, had it not been better thou hadſt never been born, than to be born to die, and be damned, not conſidering thy own end? A wiſe-man hath his anſwer before<g ref="char:EOLhyphen"/>hand prepared to pacifie <hi>wrath to come;</hi> whereas the fool forgets what's to come, and dieth in his folly.</p>
+               <p>
+                  <label>6 Med.</label> Let me all my life bear in mind, how I have to do with an enemie that hath no mercie, he bears all down before him, <hi>Peaſants and Princes.</hi> O the thought of this quite aſtoniſhes, let me make readie to die, ſince I am ſure to lay down my life; let me lay up for a <hi>life to</hi> come, ſince <hi>Death</hi> will come, and deprive me of <hi>This life.</hi> Before death throw me into the bowells of the earth, let me lift up my heart to the God of Heaven. O God, who can praiſe thee in the PIT: While I have life, then I will praiſe the Lord of Life; and yet while at the beſt of works, and beſt in health. Here is the grim viſage of pale coloured Death lookes me in the face. O thou common Butcherer of human Nature; after thy great ſtroak be ſtruck, I am not dead but aſleep. Bleſſed be thou my God, who haſt made my grave my bed, in which, after I have taken ſome ſilent reſt, the noiſe of the Arch An<g ref="char:EOLhyphen"/>gell with his Trumpet, ſhall awake and raiſe me, from a death for ſin, to a life of glory. Death is the way we muſt all walk to life: And as it is not the leaſt in my thoughts that death will quarter here, ſo it is the upper<g ref="char:EOLhyphen"/>moſt in my Note book, and ſtands upon Record, <hi>That after death I ſhall live with God, and for ever.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44921:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
